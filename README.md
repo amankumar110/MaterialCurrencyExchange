@@ -29,7 +29,7 @@ This app is my exploration of what happens when utility meets thoughtful design.
 - **Offline Support:** Enabled via RoomDB cache  
 - **Dark/Light Theme Support:** Fully adaptive via dynamic theming
 
-## Appreication Note
+## Appreciation Note
 
 This app uses the **[Exchange Rate API](https://www.exchangerate-api.com/)** for real-time currency data.  
 
