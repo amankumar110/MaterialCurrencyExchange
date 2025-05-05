@@ -29,8 +29,15 @@ This app is my exploration of what happens when utility meets thoughtful design.
 - **Offline Support:** Enabled via RoomDB cache  
 - **Dark/Light Theme Support:** Fully adaptive via dynamic theming
 
+## Screen Captures
+
+<table>
+  <tr>
+    <td><img src="splash.jpeg" width="400"/></td>
+    <td><img src="main.jpeg" width="400"/></td>
+  </tr>
+  </tr>
 
 ## Appreication Note
 
-This app uses the **[Fayyaz Ahmed Exchange Rate API](https://github.com/fayaz07/currency-api)** for real-time currency data.  
-Big thanks to [@fayaz07](https://github.com/fayaz07) for the open-source contribution that powers the core of this app’s functionality.
+This app uses the **[Exchange Rate API](https://www.exchangerate-api.com/)** for real-time currency data.  
