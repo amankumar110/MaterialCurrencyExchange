@@ -33,8 +33,8 @@ This app is my exploration of what happens when utility meets thoughtful design.
 
 <table>
   <tr>
-    <td><img src="splash.jpeg" width="400"/></td>
-    <td><img src="main.jpeg" width="400"/></td>
+    <td><img src="pic1.jpeg" width="400"/></td>
+    <td><img src="pic2.jpeg" width="400"/></td>
   </tr>
   </tr>
 
