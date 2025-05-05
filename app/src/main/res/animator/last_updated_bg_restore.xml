@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background Color Change -->
+    <objectAnimator
+        android:propertyName="backgroundColor"
+        android:valueTo="@android:color/transparent"
+        android:valueFrom="?attr/colorPrimary"
+        android:duration="300"
+        android:valueType="colorType" />
+</set>

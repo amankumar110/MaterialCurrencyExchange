@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#002633</color>
+    <color name="colorSecondaryContainer">#314650</color>
+    <color name="colorOnSecondaryContainer">#FFFFFF</color>
+    <color name="colorSurface">#F8F9FB</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="colorBackground">#1F1E1E</color>
+    <color name="colorText">#ffff</color>
+    <color name="colorSurfaceVariant">#DCE4E9</color>
+    <color name="colorOnSurfaceVariant">#1D2529</color>
+</resources>
